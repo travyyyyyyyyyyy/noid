@@ -1,0 +1,4 @@
+if you dont trust the .exe build it yourself, i dont care.
+
+
+but if you do it this way, you dont need Go.
