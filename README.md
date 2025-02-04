@@ -8,8 +8,8 @@ A Discord multitool named Noid, It has Nitro gen, Account nuking (Broken asf), S
 
 
 ### Requirements
-[Go](https://go.dev/)
-A [Windows](https://www.microsoft.com/en-us/software-download/windows11) installation
+- [Go](https://go.dev/)
+- A [Windows](https://www.microsoft.com/en-us/software-download/windows11) installation
 
 
 
