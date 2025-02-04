@@ -1,6 +1,6 @@
 # Noid MultiTool
 
-Allows discord servers to be nuked with a bot.
+A Discord multitool for Discord
 
 
 ## Overview
